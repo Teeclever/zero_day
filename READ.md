@@ -1,13 +1,13 @@
-#Vagrant - or - how to code in your local computer
+# Vagrant - or - how to code in your local computer
 
-##Learning Objectives
+## Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-*What is a virtual machine
+* What is a virtual machine
 
-*What is Ubuntu
+* What is Ubuntu
 
-*How to use VMs with Vagrant
+* How to use VMs with Vagrant
 
-*Who wrote Vagrant
+* Who wrote Vagrant
